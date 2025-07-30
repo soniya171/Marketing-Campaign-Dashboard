@@ -11,13 +11,7 @@ This Power BI dashboard analyzes the performance of digital marketing campaigns 
 - 🎯 **Slicers**: Filter by channel
 - 🎨 Custom theme and visuals
 
----
 
-## 📷 Dashboard Preview
-
-![Dashboard Screenshot](dashboard.png)
-
----
 
 ## 📁 File Info
 
